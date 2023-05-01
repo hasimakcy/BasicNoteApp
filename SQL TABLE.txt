@@ -1,0 +1,6 @@
+(K)not_RecNo               int
+   not_KayitTarihi         datetime
+   not_DegistirmeTarih	  datetime 
+   not_Tarih               datetime
+   not_Baslik              nvarchar(250)
+   not_Icerik              nvarchar(MAX)
